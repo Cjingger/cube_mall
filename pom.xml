@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.kkb.cubemall</groupId>
+    <artifactId>cubemall</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>cubemall</name>
+    <description>魔方商城</description>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>cubemall-product</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>cubemall-common</module>
+        <module>cubemall-gateway</module>
+        <module>cubemall-third-party</module>
+        <module>cubemall-search</module>
+        <module>cubemall-search</module>
+        <module>cubemall-auth</module>
+        <module>cubemall-cart</module>
+        <module>cubemall-order</module>
+        <module>cubemall-ware</module>
+    </modules>
+
+</project>

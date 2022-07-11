@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div th:text="${hello}"></div>
+    <div th:utext="${html}"></div>
+    <table th:border="">
+        <tr>
+            <th>id</th>
+            <th>name</th>
+            <th>address</th>
+            <th>birthday</th>
+        </tr>
+        <tr th:each="u:${userList}">
+            <td th:text="${u.id}"></td>
+            <td th:text="${u.name}"></td>
+            <td th:text="${u.address}"></td>
+            <td th:text="${#dates.format(u.birthady,'yyyy/mm/dd')}"></td>
+        </tr>
+    </table>
+</body>
+</html>

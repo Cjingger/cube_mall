@@ -1,0 +1,54 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+
+        - id: product_route
+          uri: lb://cubemall-product
+          predicates:
+            - Path=/api/product/**
+          filters:
+            - RewritePath=/api/(?<segment>.*),/$\{segment}
+
+        - id: ware_route
+          uri: lb://cubemall-ware
+          predicates:
+            - Path=/api/ware/**
+          filters:
+            - RewritePath=/api/(?<segment>.*),/$\{segment}
+
+        - id: coupon_route
+          uri: lb://cubemall-coupon
+          predicates:
+            - Path=/api/coupon/**
+          filters:
+            - RewritePath=/api/(?<segment>/?.*),/$\{segment}
+
+        - id: third_party_route
+          uri: lb://cubemall-third-party
+          predicates:
+            - Path=/api/thirdparty/**
+          filters:
+            - RewritePath=/api/(?<segment>.*),/$\{segment}
+
+        - id: admin_route
+          uri: lb://renren-fast
+          predicates:
+            - Path=/api/**
+          filters:
+            - RewritePath=/api/(?<segment>.*),/renren-fast/$\{segment}
+
+        - id: cubemall_auth_route
+          uri: lb://cubemall-auth
+          predicates:
+            - Host=auth.cubemall.com
+
+        - id: cubemall_seckill_route
+          uri: lb://cubemall-seckill
+          predicates:
+            - Host=seckill.cubemall.com
+
+        - id: cubemall_item_route
+          uri: lb://cubemall-product
+          predicates:
+            - Host=item.cubemall.com

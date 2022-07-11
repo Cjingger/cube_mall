@@ -1,0 +1,44 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/cube_goods?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+        ip: 127.0.0.1
+        enabled: true
+#    alicloud:
+#      oss:
+#        endpoint: oss-cn-hangzhou.aliyuncs.com
+#      access-key: LTAI5tLwVAaQxcqnpURffyY4
+#      secret-key: QKqCKX3N6FueNcvZrvID4cfP5gHvyb
+  application:
+    name: cubemall-product
+  thymeleaf:
+    cache: false
+  redis:
+    host: localhost
+    port: 6379
+server:
+  port: 8081
+mybatis-plus:
+  mapper-locations: classpath:/mapper/**/*.xml
+  global-config:
+    db-config:
+      id-type: auto
+      logic-delete-value: 1 #逻辑删除值(默认为1)
+      logic-not-delete-value: 0 #逻辑未删除值(默认为0)
+
+logging:
+  level:
+    com.kkb.cubemall: debug
+
+# 线程池相关配置
+cubemall:
+  thread:
+    core-pool-size: 20
+    max-pool-size: 200
+    keep-alive-time: 10
