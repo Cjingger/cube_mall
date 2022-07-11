@@ -12,8 +12,8 @@ import java.util.Map;
 /**
  * 商品库存
  *
- * @author ithubin
- * @email ithubin@gmail.com
+ * @author it
+ * @email it@gmail.com
  * @date 2021-06-01 15:14:09
  */
 public interface StockSkuService extends IService<StockSkuEntity> {
@@ -22,9 +22,9 @@ public interface StockSkuService extends IService<StockSkuEntity> {
 
     /**
      * @Description: 根据skuID查询数据信息
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/6/1 15:37
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/6/1 15:37
      * @UpdateRemark: 修改内容
      * @Version: 1.0

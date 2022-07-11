@@ -14,7 +14,7 @@ import java.util.List;
 /**
  * @ClassName StockSkuWebController
  * @Description
- * @Author hubin
+ * @Author
  * @Date 2021/6/1 15:35
  * @Version V1.0
  **/
@@ -28,9 +28,9 @@ public class StockSkuWebController {
 
     /**
      * @Description: 根据skuID查询数据信息
-     * @Author: hubin
+     * @Author:
      * @CreateDate: 2021/6/1 15:37
-     * @UpdateUser: hubin
+     * @UpdateUser:
      * @UpdateDate: 2021/6/1 15:37
      * @UpdateRemark: 修改内容
      * @Version: 1.0

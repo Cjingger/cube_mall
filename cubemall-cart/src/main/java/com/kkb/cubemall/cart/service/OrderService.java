@@ -10,8 +10,8 @@ import java.util.Map;
 /**
  * 订单
  *
- * @author ithubin
- * @email ithubin@gmail.com
+ * @author it
+ * @email it@gmail.com
  * @date 2021-05-28 18:50:54
  */
 public interface OrderService extends IService<OrderEntity> {
@@ -23,9 +23,9 @@ public interface OrderService extends IService<OrderEntity> {
      *
      * 1、地址收货信息
      * 2、购物清单
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/5/31 15:02
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/5/31 15:02
      * @UpdateRemark: 修改内容
      * @Version: 1.0

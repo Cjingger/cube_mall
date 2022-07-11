@@ -6,7 +6,7 @@ import lombok.ToString;
 /**
  * @ClassName UserInfoDTO
  * @Description
- * @Author hubin
+ * @Author
  * @Date 2021/5/26 14:30
  * @Version V1.0
  **/

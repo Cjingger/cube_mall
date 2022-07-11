@@ -30,9 +30,9 @@ public class UserReceiveAddressServiceImpl extends ServiceImpl<UserReceiveAddres
 
     /**
      * @Description: 查询地址列表数据
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/5/31 15:33
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/5/31 15:33
      * @UpdateRemark: 修改内容
      * @Version: 1.0

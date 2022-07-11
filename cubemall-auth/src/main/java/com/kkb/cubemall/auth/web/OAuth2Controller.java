@@ -28,7 +28,6 @@ import java.util.concurrent.TimeUnit;
 /**
  * @ClassName OAuth2Controller
  * @Description
- * @Author hubin
  * @Date 2021/5/24 18:00
  * @Version V1.0
  **/
@@ -61,9 +60,9 @@ public class OAuth2Controller {
 
     /**
      * @Description: 根据回调地址调用第三方网站授权认证接口
-     * @Author: hubin
+     * @Author:
      * @CreateDate: 2021/5/24 18:28
-     * @UpdateUser: hubin
+     * @UpdateUser:
      * @UpdateDate: 2021/5/24 18:28
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -136,9 +135,9 @@ public class OAuth2Controller {
 
     /**
      * @Description: 根据access_token获取用户信息
-     * @Author: hubin
+     * @Author:
      * @CreateDate: 2021/5/24 19:03
-     * @UpdateUser: hubin
+     * @UpdateUser:
      * @UpdateDate: 2021/5/24 19:03
      * @UpdateRemark: 修改内容
      * @Version: 1.0

@@ -6,7 +6,7 @@ import lombok.ToString;
 /**
  * @ClassName OAuthUser
  * @Description
- * @Author hubin
+ * @Author
  * @Date 2021/5/24 19:01
  * @Version V1.0
  **/

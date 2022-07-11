@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * @ClassName AuthRemoteClient
  * @Description
- * @Author hubin
+ * @Author 
  * @Date 2021/5/26 14:22
  * @Version V1.0
  **/
@@ -20,9 +20,9 @@ public interface AuthRemoteClient {
 
     /**
      * @Description: 根据token查询用户信息
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/5/26 14:23
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/5/26 14:23
      * @UpdateRemark: 修改内容
      * @Version: 1.0

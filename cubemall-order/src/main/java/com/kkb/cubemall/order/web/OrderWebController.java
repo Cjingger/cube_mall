@@ -14,7 +14,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 /**
  * @ClassName OrderWebController
  * @Description
- * @Author hubin
+ * @Author 
  * @Date 2021/5/30 15:32
  * @Version V1.0
  **/
@@ -29,9 +29,9 @@ public class OrderWebController {
 
     /**
      * @Description: 去掉订单结算页
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/5/30 15:32
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/5/30 15:32
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -50,9 +50,9 @@ public class OrderWebController {
 
     /**
      * @Description: 下单功能实现
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/6/7 17:23
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/6/7 17:23
      * @UpdateRemark: 修改内容
      * @Version: 1.0

@@ -18,7 +18,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * @ClassName LoginController
  * @Description
- * @Author hubin
+ * @Author 
  * @Date 2021/5/18 17:00
  * @Version V1.0
  **/
@@ -32,9 +32,9 @@ public class LoginController {
 
     /**
      * @Description: 访问登录页面
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/5/18 17:14
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/5/18 17:14
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -46,9 +46,9 @@ public class LoginController {
 
     /**
      * @Description: 登录认证的接口实现
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/5/18 16:44
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/5/18 16:44
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -86,9 +86,9 @@ public class LoginController {
 
     /**
      * @Description: 根据token查询用户身份信息
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/5/19 18:27
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/5/19 18:27
      * @UpdateRemark: 修改内容
      * @Version: 1.0

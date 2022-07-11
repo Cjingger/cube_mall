@@ -9,8 +9,8 @@ import java.util.Map;
 /**
  * 仓库信息
  *
- * @author ithubin
- * @email ithubin@gmail.com
+ * @author it
+ * @email it@gmail.com
  * @date 2021-06-01 15:14:10
  */
 public interface StockInfoService extends IService<StockInfoEntity> {

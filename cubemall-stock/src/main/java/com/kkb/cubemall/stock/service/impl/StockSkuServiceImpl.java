@@ -51,9 +51,9 @@ public class StockSkuServiceImpl extends ServiceImpl<StockSkuDao, StockSkuEntity
 
     /**
      * @Description: 根据skuID查询数据信息
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/6/1 15:37
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/6/1 15:37
      * @UpdateRemark: 修改内容
      * @Version: 1.0

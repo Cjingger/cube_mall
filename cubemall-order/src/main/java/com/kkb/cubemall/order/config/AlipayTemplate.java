@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 /**
  * @ClassName AlipayTemplate
  * @Description
- * @Author hubin
+ * @Author 
  * @Date 2021/6/8 17:15
  * @Version V1.0
  **/

@@ -6,7 +6,7 @@ import lombok.ToString;
 /**
  * @ClassName PayVo
  * @Description
- * @Author hubin
+ * @Author 
  * @Date 2021/6/8 18:37
  * @Version V1.0
  **/

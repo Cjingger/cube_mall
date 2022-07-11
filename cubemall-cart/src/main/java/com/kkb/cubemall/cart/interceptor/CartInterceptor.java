@@ -21,7 +21,7 @@ import java.util.UUID;
 /**
  * @ClassName CartInterceptor
  * @Description
- * @Author hubin
+ * @Author
  * @Date 2021/5/26 14:13
  * @Version V1.0
  **/
@@ -34,9 +34,9 @@ public class CartInterceptor implements HandlerInterceptor{
 
     /**
      * @Description: 业务方法执行之前执行的方法
-     * @Author: hubin
+     * @Author:
      * @CreateDate: 2021/5/26 14:15
-     * @UpdateUser: hubin
+     * @UpdateUser:
      * @UpdateDate: 2021/5/26 14:15
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -96,9 +96,9 @@ public class CartInterceptor implements HandlerInterceptor{
 
     /**
      * @Description: 业务执行之后完成执行的方法
-     * @Author: hubin
+     * @Author:
      * @CreateDate: 2021/5/26 14:15
-     * @UpdateUser: hubin
+     * @UpdateUser:
      * @UpdateDate: 2021/5/26 14:15
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -124,9 +124,9 @@ public class CartInterceptor implements HandlerInterceptor{
 
     /**
      * @Description: 整个任务全部完成，执行方法
-     * @Author: hubin
+     * @Author:
      * @CreateDate: 2021/5/26 14:16
-     * @UpdateUser: hubin
+     * @UpdateUser:
      * @UpdateDate: 2021/5/26 14:16
      * @UpdateRemark: 修改内容
      * @Version: 1.0

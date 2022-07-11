@@ -7,7 +7,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 /**
  * @ClassName ThreadPoolProperties
  * @Description
- * @Author hubin
+ * @Author 
  * @Date 2021/5/26 17:14
  * @Version V1.0
  **/

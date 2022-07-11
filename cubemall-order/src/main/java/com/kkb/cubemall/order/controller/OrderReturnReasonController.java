@@ -20,8 +20,8 @@ import com.kkb.cubemall.common.utils.R;
 /**
  * 退货原因
  *
- * @author ithubin
- * @email ithubin@gmail.com
+ * @author it
+ * @email it@gmail.com
  * @date 2021-05-28 18:50:54
  */
 @RestController

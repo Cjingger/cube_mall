@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 /**
  * @ClassName OAuth2Properties
  * @Description
- * @Author hubin
+ * @Author
  * @Date 2021/5/24 17:56
  * @Version V1.0
  **/

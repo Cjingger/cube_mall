@@ -10,7 +10,7 @@ import java.util.Map;
 /**
  * @ClassName OrderConfirmVo
  * @Description
- * @Author hubin
+ * @Author
  * @Date 2021/5/31 14:49
  * @Version V1.0
  **/

@@ -3,7 +3,7 @@ package com.kkb.cubemall.order.utils;
 /**
  * @ClassName Constants
  * @Description
- * @Author hubin
+ * @Author 
  * @Date 2021/5/18 16:57
  * @Version V1.0
  **/

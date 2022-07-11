@@ -99,9 +99,9 @@ public class OrderServiceImpl extends ServiceImpl<OrderDao, OrderEntity> impleme
      *
      * 1、地址收货信息
      * 2、购物清单
-     * @Author: hubin
+     * @Author:
      * @CreateDate: 2021/5/31 15:02
-     * @UpdateUser: hubin
+     * @UpdateUser:
      * @UpdateDate: 2021/5/31 15:02
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -193,9 +193,9 @@ public class OrderServiceImpl extends ServiceImpl<OrderDao, OrderEntity> impleme
 
     /**
      * @Description: 提交订单的方法
-     * @Author: hubin
+     * @Author:
      * @CreateDate: 2021/6/4 15:53
-     * @UpdateUser: hubin
+     * @UpdateUser:
      * @UpdateDate: 2021/6/4 15:53
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -277,9 +277,9 @@ public class OrderServiceImpl extends ServiceImpl<OrderDao, OrderEntity> impleme
 
     /**
      * @Description: 根据订单id查询订单信息
-     * @Author: hubin
+     * @Author:
      * @CreateDate: 2021/6/8 18:40
-     * @UpdateUser: hubin
+     * @UpdateUser:
      * @UpdateDate: 2021/6/8 18:40
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -316,9 +316,9 @@ public class OrderServiceImpl extends ServiceImpl<OrderDao, OrderEntity> impleme
 
     /**
      * @Description: 根据订单id查询订单实体数据
-     * @Author: hubin
+     * @Author:
      * @CreateDate: 2021/6/8 18:43
-     * @UpdateUser: hubin
+     * @UpdateUser:
      * @UpdateDate: 2021/6/8 18:43
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -330,9 +330,9 @@ public class OrderServiceImpl extends ServiceImpl<OrderDao, OrderEntity> impleme
 
     /**
      * @Description: 保存订单数据
-     * @Author: hubin
+     * @Author:
      * @CreateDate: 2021/6/7 15:07
-     * @UpdateUser: hubin
+     * @UpdateUser:
      * @UpdateDate: 2021/6/7 15:07
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -354,9 +354,9 @@ public class OrderServiceImpl extends ServiceImpl<OrderDao, OrderEntity> impleme
 
     /**
      * @Description: 构造订单数据
-     * @Author: hubin
+     * @Author:
      * @CreateDate: 2021/6/7 11:40
-     * @UpdateUser: hubin
+     * @UpdateUser:
      * @UpdateDate: 2021/6/7 11:40
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -387,9 +387,9 @@ public class OrderServiceImpl extends ServiceImpl<OrderDao, OrderEntity> impleme
 
     /**
      * @Description: 计算订单商品总价格
-     * @Author: hubin
+     * @Author:
      * @CreateDate: 2021/6/7 11:56
-     * @UpdateUser: hubin
+     * @UpdateUser:
      * @UpdateDate: 2021/6/7 11:56
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -432,9 +432,9 @@ public class OrderServiceImpl extends ServiceImpl<OrderDao, OrderEntity> impleme
 
     /**
      * @Description: 构造订单明细
-     * @Author: hubin
+     * @Author:
      * @CreateDate: 2021/6/7 11:53
-     * @UpdateUser: hubin
+     * @UpdateUser:
      * @UpdateDate: 2021/6/7 11:53
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -508,9 +508,9 @@ public class OrderServiceImpl extends ServiceImpl<OrderDao, OrderEntity> impleme
 
     /**
      * @Description: 构造订单数据
-     * @Author: hubin
+     * @Author:
      * @CreateDate: 2021/6/7 11:42
-     * @UpdateUser: hubin
+     * @UpdateUser:
      * @UpdateDate: 2021/6/7 11:42
      * @UpdateRemark: 修改内容
      * @Version: 1.0

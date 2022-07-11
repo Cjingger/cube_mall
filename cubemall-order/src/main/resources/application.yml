@@ -9,7 +9,7 @@ spring:
     #url: jdbc:mysql://47.113.81.149:3306/cube_goods?useUnicode=true&characterEncoding=UTF-8&useSSL=false
     url: jdbc:mysql://8.133.188.83:3306/cube_order?useUnicode=true&characterEncoding=UTF-8&useSSL=false
     username: root
-    password: ithubin@163@hubin
+    password: it@163@
   application:
       name: cubemall-order
   cloud:
@@ -19,7 +19,7 @@ spring:
   redis:
     port: 6379
     host: 8.133.188.83
-    password: ithubin@163.com.com
+    password: it@163.com.com
 mybatis-plus:
   mapper-locations: classpath:/mapper/**/*.xml
   global-config:

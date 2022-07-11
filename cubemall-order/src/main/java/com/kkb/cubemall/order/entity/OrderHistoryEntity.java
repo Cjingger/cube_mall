@@ -10,8 +10,8 @@ import lombok.Data;
 /**
  * 订单操作历史记录
  * 
- * @author ithubin
- * @email ithubin@gmail.com
+ * @author it
+ * @email it@gmail.com
  * @date 2021-05-28 18:50:53
  */
 @Data

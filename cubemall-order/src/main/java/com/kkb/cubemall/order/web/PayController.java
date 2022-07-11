@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 /**
  * @ClassName PayController
  * @Description
- * @Author hubin
+ * @Author 
  * @Date 2021/6/8 19:10
  * @Version V1.0
  **/
@@ -27,9 +27,9 @@ public class PayController {
 
     /**
      * @Description: 实现支付宝的支付
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/6/8 18:35
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/6/8 18:35
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -44,9 +44,9 @@ public class PayController {
 
     /**
      * @Description: 支付完成后，重定向到支付成功页面
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/6/9 12:07
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/6/9 12:07
      * @UpdateRemark: 修改内容
      * @Version: 1.0

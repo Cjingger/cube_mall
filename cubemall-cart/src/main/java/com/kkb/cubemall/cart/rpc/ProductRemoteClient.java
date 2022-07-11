@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * @ClassName ProductRemoteClient
  * @Description
- * @Author hubin
+ * @Author 
  * @Date 2021/5/26 17:20
  * @Version V1.0
  **/

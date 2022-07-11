@@ -10,8 +10,8 @@ import lombok.Data;
 /**
  * 商品库存
  * 
- * @author ithubin
- * @email ithubin@gmail.com
+ * @author it
+ * @email it@gmail.com
  * @date 2021-06-01 15:14:09
  */
 @Data

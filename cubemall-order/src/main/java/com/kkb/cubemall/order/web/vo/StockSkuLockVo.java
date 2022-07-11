@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * @ClassName StockSkuLockVo
  * @Description 锁定库存Vo对象
- * @Author hubin
+ * @Author 
  * @Date 2021/6/7 16:06
  * @Version V1.0
  **/

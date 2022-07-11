@@ -11,7 +11,7 @@ import java.time.Duration;
 /**
  * @ClassName RestTemplateConfig
  * @Description
- * @Author hubin
+ * @Author 
  * @Date 2021/5/24 18:48
  * @Version V1.0
  **/

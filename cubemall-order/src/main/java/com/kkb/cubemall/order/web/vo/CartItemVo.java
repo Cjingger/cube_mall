@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * @ClassName CartItemVo
  * @Description
- * @Author hubin
+ * @Author
  * @Date 2021/5/26 12:54
  * @Version V1.0
  **/

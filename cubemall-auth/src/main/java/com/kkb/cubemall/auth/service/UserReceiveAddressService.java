@@ -10,8 +10,8 @@ import java.util.Map;
 /**
  * 会员收货地址
  *
- * @author ithubin
- * @email ithubin@gmail.com
+ * @author it
+ * @email it@gmail.com
  * @date 2021-05-18 11:22:47
  */
 public interface UserReceiveAddressService extends IService<UserReceiveAddressEntity> {
@@ -20,9 +20,9 @@ public interface UserReceiveAddressService extends IService<UserReceiveAddressEn
 
     /**
      * @Description: 查询地址列表数据
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/5/31 15:33
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/5/31 15:33
      * @UpdateRemark: 修改内容
      * @Version: 1.0

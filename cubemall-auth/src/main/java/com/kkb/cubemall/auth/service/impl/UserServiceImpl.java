@@ -46,9 +46,9 @@ public class UserServiceImpl extends ServiceImpl<UserDao, UserEntity> implements
 
     /**
      * @Description: 登录认证的接口实现
-     * @Author: hubin
+     * @Author:
      * @CreateDate: 2021/5/18 16:44
-     * @UpdateUser: hubin
+     * @UpdateUser:
      * @UpdateDate: 2021/5/18 16:44
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -89,9 +89,9 @@ public class UserServiceImpl extends ServiceImpl<UserDao, UserEntity> implements
 
     /**
      * @Description: 根据token查询用户身份信息
-     * @Author: hubin
+     * @Author:
      * @CreateDate: 2021/5/19 18:27
-     * @UpdateUser: hubin
+     * @UpdateUser:
      * @UpdateDate: 2021/5/19 18:27
      * @UpdateRemark: 修改内容
      * @Version: 1.0

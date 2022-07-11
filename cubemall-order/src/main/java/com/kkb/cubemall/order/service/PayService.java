@@ -3,7 +3,7 @@ package com.kkb.cubemall.order.service;
 /**
  * @ClassName PayService
  * @Description
- * @Author hubin
+ * @Author 
  * @Date 2021/6/8 18:33
  * @Version V1.0
  **/
@@ -11,9 +11,9 @@ public interface PayService {
 
     /**
      * @Description: 实现支付宝的支付
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/6/8 18:35
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/6/8 18:35
      * @UpdateRemark: 修改内容
      * @Version: 1.0

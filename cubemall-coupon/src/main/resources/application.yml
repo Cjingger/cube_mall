@@ -8,7 +8,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://8.133.188.83:3306/cube_sms?useUnicode=true&characterEncoding=UTF-8&useSSL=false
     username: root
-    password: ithubin@hubin@
+    password: it@@
   cloud:
     nacos:
       discovery:

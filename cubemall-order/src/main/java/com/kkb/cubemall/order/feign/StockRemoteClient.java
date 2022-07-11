@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * @ClassName StockRemoteClient
  * @Description
- * @Author hubin
+ * @Author
  * @Date 2021/6/1 15:21
  * @Version V1.0
  **/
@@ -21,9 +21,9 @@ public interface StockRemoteClient {
 
     /**
      * @Description: 根据skuid查询库存信息
-     * @Author: hubin
+     * @Author:
      * @CreateDate: 2021/6/1 15:25
-     * @UpdateUser: hubin
+     * @UpdateUser:
      * @UpdateDate: 2021/6/1 15:25
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -34,9 +34,9 @@ public interface StockRemoteClient {
 
     /**
      * @Description: 远程调用库存服务，锁定库存
-     * @Author: hubin
+     * @Author:
      * @CreateDate: 2021/6/7 16:17
-     * @UpdateUser: hubin
+     * @UpdateUser:
      * @UpdateDate: 2021/6/7 16:17
      * @UpdateRemark: 修改内容
      * @Version: 1.0

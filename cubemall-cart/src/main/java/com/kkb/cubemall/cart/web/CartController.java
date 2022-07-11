@@ -19,7 +19,7 @@ import java.util.List;
 /**
  * @ClassName CartController
  * @Description
- * @Author hubin
+ * @Author 
  * @Date 2021/5/26 15:01
  * @Version V1.0
  **/
@@ -33,9 +33,9 @@ public class CartController {
 
     /**
      * @Description: 添加购物车
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/5/26 18:00
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/5/26 18:00
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -55,9 +55,9 @@ public class CartController {
 
     /**
      * @Description: 调整到添加购物车成功的页面
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/5/26 18:00
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/5/26 18:00
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -78,9 +78,9 @@ public class CartController {
 
     /**
      * @Description: 购物车结算页面： 购物车列表页面
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/5/27 14:04
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/5/27 14:04
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -97,9 +97,9 @@ public class CartController {
 
     /**
      * @Description: 购物车数量的改变
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/5/27 17:40
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/5/27 17:40
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -117,9 +117,9 @@ public class CartController {
 
     /**
      * @Description: 购物车商品删除实现
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/5/27 18:06
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/5/27 18:06
      * @UpdateRemark: 修改内容
      * @Version: 1.0
@@ -135,9 +135,9 @@ public class CartController {
 
     /**
      * @Description: 订单结算获取购物清单
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/5/31 15:45
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/5/31 15:45
      * @UpdateRemark: 修改内容
      * @Version: 1.0

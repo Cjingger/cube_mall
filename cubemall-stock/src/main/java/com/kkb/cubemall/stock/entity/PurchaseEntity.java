@@ -11,8 +11,8 @@ import lombok.Data;
 /**
  * 采购信息
  * 
- * @author ithubin
- * @email ithubin@gmail.com
+ * @author it
+ * @email it@gmail.com
  * @date 2021-06-01 15:14:10
  */
 @Data

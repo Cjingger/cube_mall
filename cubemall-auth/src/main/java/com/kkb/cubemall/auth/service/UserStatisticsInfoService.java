@@ -9,8 +9,8 @@ import java.util.Map;
 /**
  * 会员统计信息
  *
- * @author ithubin
- * @email ithubin@gmail.com
+ * @author it
+ * @email it@gmail.com
  * @date 2021-05-18 11:22:47
  */
 public interface UserStatisticsInfoService extends IService<UserStatisticsInfoEntity> {

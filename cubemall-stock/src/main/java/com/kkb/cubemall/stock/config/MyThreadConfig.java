@@ -12,7 +12,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * @ClassName MyThreadConfig
  * @Description
- * @Author hubin
+ * @Author 
  * @Date 2021/5/16 20:15
  * @Version V1.0
  **/

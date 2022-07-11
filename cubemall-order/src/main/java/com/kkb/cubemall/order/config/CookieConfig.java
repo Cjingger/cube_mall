@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * @ClassName CookieConfig
  * @Description
- * @Author hubin
+ * @Author 
  * @Date 2021/6/1 10:51
  * @Version V1.0
  **/

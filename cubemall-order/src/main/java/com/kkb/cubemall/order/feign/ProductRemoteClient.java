@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 /**
  * @ClassName ProductRemoteClient
  * @Description
- * @Author hubin
+ * @Author 
  * @Date 2021/6/7 10:46
  * @Version V1.0
  **/
@@ -19,9 +19,9 @@ public interface ProductRemoteClient {
 
     /**
      * @Description: 根据skuId查询商品spu信息
-     * @Author: hubin
+     * @Author: 
      * @CreateDate: 2021/6/7 10:50
-     * @UpdateUser: hubin
+     * @UpdateUser: 
      * @UpdateDate: 2021/6/7 10:50
      * @UpdateRemark: 修改内容
      * @Version: 1.0

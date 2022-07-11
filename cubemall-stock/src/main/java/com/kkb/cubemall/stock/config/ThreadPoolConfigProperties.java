@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 /**
  * @ClassName ThreadPoolConfigProperties
  * @Description
- * @Author hubin
+ * @Author
  * @Date 2021/5/16 20:13
  * @Version V1.0
  **/

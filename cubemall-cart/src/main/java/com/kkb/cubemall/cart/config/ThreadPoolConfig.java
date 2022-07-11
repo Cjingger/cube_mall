@@ -12,7 +12,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * @ClassName ThreadPoolConfig
  * @Description
- * @Author hubin
+ * @Author
  * @Date 2021/5/26 17:15
  * @Version V1.0
  **/

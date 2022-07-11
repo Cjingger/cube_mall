@@ -14,7 +14,7 @@ import org.springframework.stereotype.Service;
 /**
  * @ClassName PayServiceImpl
  * @Description
- * @Author hubin
+ * @Author
  * @Date 2021/6/8 18:36
  * @Version V1.0
  **/
@@ -33,9 +33,9 @@ public class PayServiceImpl implements PayService {
 
     /**
      * @Description: 实现支付宝的支付
-     * @Author: hubin
+     * @Author:
      * @CreateDate: 2021/6/8 18:35
-     * @UpdateUser: hubin
+     * @UpdateUser:
      * @UpdateDate: 2021/6/8 18:35
      * @UpdateRemark: 修改内容
      * @Version: 1.0
