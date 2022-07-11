@@ -22,8 +22,8 @@ import com.kkb.cubemall.product.service.CategoryBrandService;
 /**
  * 分类品牌关系表
  *
- * @author peige
- * @email peige@gmail.com
+ * @author
+ * @email @gmail.com
  * @date 2021-04-22 11:03:03
  */
 @RestController

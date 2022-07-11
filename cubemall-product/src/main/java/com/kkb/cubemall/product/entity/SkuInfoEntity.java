@@ -11,8 +11,8 @@ import lombok.Data;
 /**
  * sku??Ϣ
  * 
- * @author peige
- * @email peige@gmail.com
+ * @author
+ * @email @gmail.com
  * @date 2021-04-19 18:24:09
  */
 @Data

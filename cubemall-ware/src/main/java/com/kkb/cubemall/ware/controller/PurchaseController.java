@@ -17,8 +17,8 @@ import com.kkb.cubemall.ware.service.PurchaseService;
 /**
  * 采购信息
  *
- * @author peige
- * @email peige@gmail.com
+ * @author
+ * @email @gmail.com
  * @date 2021-07-14 18:11:49
  */
 @RestController
